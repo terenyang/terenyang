@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terenyang
 - 👀 I’m interested in Utilization Azure Technologies, Application design & Data analysis
-- 🌱 I’m currently learning R & Linux system administration 
+- 🌱 I’m currently learning Python & Linux system administration 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach by terenyang@gmail/outlook.com
 
