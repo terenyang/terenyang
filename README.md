@@ -2,7 +2,7 @@
 - 👀 I’m interested in Utilization Azure & O365 Technologies, Application design & Data analysis
 - 🌱 I’m currently learning Python & Linux system administration 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach by terenyang\<at\>gmail/outlook.com
+- 📫 You can reach me by terenyang\<at\>gmail/outlook.com
 
 <!---
 terenyang/terenyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
