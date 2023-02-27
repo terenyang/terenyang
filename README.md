@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xindong Yang
-- 👀 I’m interested in Utilization Azure & O365 Technologies, Application design & Data analysis
+- 👀 I’m interested in application design & Data analysis
 - 🌱 I’m currently learning Python & Linux system administration 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by terenyang\<at\>gmail/outlook.com
